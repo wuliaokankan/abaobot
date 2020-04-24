@@ -3,35 +3,36 @@
 #### 介绍
 微信返利机器人，微信淘客机器人，微信查券返利机器人，淘宝客发单机器人，阿宝返利机器人，微信机器人接口，微信机器人API，微信导购机器人
 
-#### 软件架构
-软件架构说明
+#####查券机器人体系
+参考[http://www.wlkankan.cn/cate49/219.html](http://www.wlkankan.cn/cate49/219.html)
+包含淘客CMS网站，微信公众号查券返利机器人，微信机器人发单工具，个人微信查券返利机器人，
+一、淘客CMS网站
+全面打通PC和手机端，只需简单部署一下，就可以拥有属于自己的优惠券cms淘客网站，查券返利轻松搞定
+不依赖第三方，完全淘宝联盟官方返利
 
+二、微信公众号查券返利机器人
+普通淘客只需注册一个订阅号，简单配置一下，即可轻松拥有一个属于自己的查券返利机器人公众号
+高级淘客可自己独立部署公众号查券返利系统，可服务无数淘客机器人公众号
+不依赖第三方，完全淘宝联盟官方返利
 
-#### 安装教程
+三、微信机器人发单工具
+只需简单配置，即可使用个人微信发单
+支持群发个人、群发群，发朋友圈
+不依赖第三方，完全淘宝联盟官方返利
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+四、个人微信查券返利机器人
+只需简单配置，个人微信即可充当查券返利机器人，
+支持一对一查券返利，群查券
+发朋友圈，朋友圈点赞
+不依赖第三方，完全淘宝联盟官方返利
 
-#### 使用说明
+#### 微信公众号搭建步骤
+参考[http://www.wlkankan.cn/cate50/221.html](http://www.wlkankan.cn/cate50/221.html)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### 阿宝机器人使用方法
+阿宝查券机器人使用方法参考[http://www.wlkankan.cn/cate49/215.html](http://www.wlkankan.cn/cate49/215.html)
+![阿宝查券机器人](http://www.wlkankan.cn/image/202004/597763B6D3EDAF47B940C91CA01BBADF.jpg "阿宝查券机器人")
 
-#### 参与贡献
+#####合作咨询微信happybabby110
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 码云特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![淘客机器人QQ讨论群](http://www.wlkankan.cn/image/201912/3098E71D26551D482FB4E91373C4B078.png "淘客机器人QQ讨论群")
