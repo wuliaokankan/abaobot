@@ -6,18 +6,24 @@
 #### 查券机器人体系
 
 参考[http://www.wlkankan.cn/cate49/219.html](http://www.wlkankan.cn/cate49/219.html)
+
 包含淘客CMS网站，微信公众号查券返利机器人，微信机器人发单工具，个人微信查券返利机器人，管理平台等
-java语言,springboot+mybatis,方便二次开发。
+
+基于java语言开发,springboot+mybatis框架,方便二次开发。
 
 #### 一、淘客CMS网站
 全面打通PC和手机端，只需简单部署一下，就可以拥有属于自己的优惠券cms淘客网站，查券返利轻松搞定
 不依赖第三方，完全淘宝联盟官方返利
+
 -------------- **查券返利CMS源码可出售，具体加微信happybabby110** ---------------
 
 #### 二、微信公众号查券返利机器人
 普通淘客只需注册一个订阅号，简单配置一下，即可轻松拥有一个属于自己的查券返利机器人公众号
 高级淘客可自己独立部署公众号查券返利系统，可服务无数淘客机器人公众号
 不依赖第三方，完全淘宝联盟官方返利
+
+项目地址：[https://gitee.com/tangjinjinwx/wechatfanli](https://gitee.com/tangjinjinwx/wechatfanli)
+
 -------------- **公众号返利机器人源码可出售，具体加微信happybabby110** ---------------
 
 #### 三、微信机器人发单工具
@@ -30,9 +36,12 @@ java语言,springboot+mybatis,方便二次开发。
 支持一对一查券返利，群查券
 发朋友圈，朋友圈点赞
 不依赖第三方，完全淘宝联盟官方返利
+
+项目地址：[https://gitee.com/tangjinjinwx/wechatbot](https://gitee.com/tangjinjinwx/wechatbot)
+
 -------------- **个人号整套返利系统源码可出售，具体加微信happybabby110** ----------------
 
-#### 微信公众号搭建步骤
+#### 微信公众号机器人测试体验搭建步骤
 参考[http://www.wlkankan.cn/cate50/221.html](http://www.wlkankan.cn/cate50/221.html)
 
 #### 阿宝机器人使用方法
