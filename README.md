@@ -17,6 +17,8 @@
 全面打通PC和手机端，只需简单部署一下，就可以拥有属于自己的优惠券cms淘客网站，查券返利轻松搞定
 不依赖第三方，完全淘宝联盟官方返利
 
+项目地址：[https://gitee.com/tangjinjinwx/taokecms](https://gitee.com/tangjinjinwx/taokecms)
+
 -------------- **查券返利CMS源码可出售，具体加微信happybabby110** ---------------
 
 #### 二、微信公众号查券返利机器人
@@ -54,4 +56,14 @@
 
 ![淘客机器人QQ讨论群](http://www.wlkankan.cn/image/201912/3098E71D26551D482FB4E91373C4B078.png "淘客机器人QQ讨论群")
 
-#### 个人博客[http://www.wlkankan.cn](http://www.wlkankan.cn)
+#### 个人博客
+
+[http://www.wlkankan.cn](http://www.wlkankan.cn)
+
+#### 其他系统方案
+
+[微信个人号淘客返利机器人项目](https://gitee.com/tangjinjinwx/wechatbot)
+
+[微信公众号淘客查券返利系统](https://gitee.com/tangjinjinwx/wechatfanli)
+
+[个人微信开发SDK](https://gitee.com/tangjinjinwx/Public.WeChat.CRM.SDK/)
